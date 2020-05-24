@@ -6,11 +6,7 @@
       "details":[
          {
             "appID":"YE754YUBD2.com.universal-links-demo.UniversalLinksDemoApp",
-            "paths":[
-               
-               
-               [ "NOT /about/"]
-            ]
+            "paths": ["*", "NOT /about/*"],
          }
       ]
     }
